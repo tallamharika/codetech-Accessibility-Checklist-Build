@@ -50,4 +50,4 @@ Accessibility improves usability and ensures digital products can be used by a w
 
 ### Proof 3 – GitHub Repository Upload
 
-![GitHub Repository Upload](proof2.png)
+![GitHub Repository Upload](https://github.com/tallamharika/codetech-Accessibility-Checklist-Build/blob/main/Screenshot%20(348).png?raw=true)
